@@ -56,7 +56,7 @@ Following, the training summary is shown here:
 
     The Confusion Matrix is provided as-
     
-!(Conf_mat.png)
+!([Confusion Matrix: ]Conf_Mat.png)
 
 
     The validation accuracy and loss curves also show convergence-
