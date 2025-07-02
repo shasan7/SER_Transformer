@@ -3,9 +3,9 @@ Speech Emotion Recognition (SER) using the RAVDESS dataset (https://www.kaggle.c
 The dataset was downsampled to 16 kHz for quicker processing and speech samples were kept into certain subfolders according to their emotional category.
 Right now, the dataset is kept private as its a part of my M. Sc. (Engg) Thesis. After completion of the program, the dataset can be made available upon request.
 
-An starting offset of 0.6 seconds and total audio length of 2.5 seconds was used, to avoid initial noises and maintain an acceptable audio length. The raw audio was fed to Wav2Vec 2.0 pretrained audo transformer.
-The model was fine-tuned on RAVDESS dataset, using a learning rate of 1e-5, weight decay of 0.01, batch size of 16 and the training was conducted for 20 epochs.
-It led us to ge an accuracy of 99.65%, which can be considered SOTA for this dataset.
+An starting offset of 0.6 seconds and total audio length of 2.5 seconds was used, to avoid initial noises and maintain an acceptable audio length. The raw audios were fed to the Wav2Vec 2.0 pretrained audio transformer.
+The model was fine-tuned on the RAVDESS dataset, using a learning rate of 1e-5, weight decay of 0.01, batch size of 16 and the training was conducted for 20 epochs.
+It led us to get an accuracy of 99.65%, which can be considered SOTA for this dataset.
 
 
 
