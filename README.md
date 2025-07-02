@@ -56,7 +56,7 @@ Following, the training summary is shown here:
 
     The Confusion Matrix is provided as-
     
-https://github.com/shasan7/SER_Transformer/blob/main/Acc.png
+!(Conf_mat.png)
 
 
     The validation accuracy and loss curves also show convergence-
