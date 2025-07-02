@@ -11,7 +11,7 @@ It led us to ge an accuracy of 99.65%, which can be considered SOTA for this dat
 
 Following, the training summary is shown here:
 
-    Epoch	Training Loss	Validation Loss	   Accuracy	Precision	Recall	     F1
+    Epoch	Training Loss	Validation Loss	  Accuracy	Precision	Recall	    F1
     1	    1.977600	    1.785000	      0.447917	0.434311	0.447917	0.372670
     2	    1.639300	    1.422904	      0.729167	0.788503	0.729167	0.703925
     3	    1.314900	    1.098097	      0.847222	0.902571	0.847222	0.840370
