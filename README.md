@@ -35,7 +35,7 @@ Following, the training summary is shown here:
 
 
 
-  And we obtained the result as below:
+And we obtained the result as below:
 
                 precision    recall  f1-score   support
 
@@ -54,9 +54,13 @@ Following, the training summary is shown here:
 
 
 
-    The Confusion Matrix is provided as-
+The Confusion Matrix is provided as-
     
 ![Confusion Matrix: ](Conf_Mat.png)
 
 
-    The validation accuracy and loss curves also show convergence-
+The validation accuracy and loss curves also show convergence-
+
+![Validation Accuracy: ](Acc.png)
+
+![Validation Loss: ](Loss.png)
