@@ -1,5 +1,7 @@
 Speech Emotion Recognition (SER) using the RAVDESS dataset (https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio).
 
+![Abstract_mini: ](Abstract_mini.png)
+
 The dataset was downsampled to 16 kHz for quicker processing and speech samples were kept into certain subfolders according to their emotional category.
 Right now, the dataset is kept private as its a part of my M. Sc. (Engg) Thesis. After completion of the program, the dataset can be made available upon request.
 
